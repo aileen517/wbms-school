@@ -1,0 +1,1055 @@
+[14-Oct-2022 08:21:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/hxuoeflb/public_html/faculty/dashboard.php:124
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/dashboard.php(124): mysqli_error()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/dashboard.php on line 124
+[14-Oct-2022 08:21:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/hxuoeflb/public_html/faculty/dashboard.php:122
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/dashboard.php(122): mysqli_error()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/dashboard.php on line 122
+[14-Oct-2022 16:23:30 Asia/Manila] PHP Warning:  Undefined variable $empl in /home/hxuoeflb/public_html/faculty/faculty_modal.php on line 493
+[14-Oct-2022 16:23:30 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/faculty/faculty_modal.php:494
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/faculty_modal.php(494): mysqli_fetch_array()
+#1 /home/hxuoeflb/public_html/faculty/student-details.php(577): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/faculty_modal.php on line 494
+[14-Oct-2022 16:24:34 Asia/Manila] PHP Warning:  Undefined variable $empl in /home/hxuoeflb/public_html/faculty/faculty_modal.php on line 493
+[14-Oct-2022 16:24:34 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/faculty/faculty_modal.php:494
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/faculty_modal.php(494): mysqli_fetch_array()
+#1 /home/hxuoeflb/public_html/faculty/student-details.php(577): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/faculty_modal.php on line 494
+[14-Oct-2022 16:25:02 Asia/Manila] PHP Warning:  Undefined variable $empl in /home/hxuoeflb/public_html/faculty/faculty_modal.php on line 493
+[14-Oct-2022 16:25:02 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/faculty/faculty_modal.php:494
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/faculty_modal.php(494): mysqli_fetch_array()
+#1 /home/hxuoeflb/public_html/faculty/student-details.php(446): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/faculty_modal.php on line 494
+[14-Oct-2022 16:25:48 Asia/Manila] PHP Parse error:  syntax error, unexpected token "else" in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 101
+[14-Oct-2022 16:26:02 Asia/Manila] PHP Parse error:  syntax error, unexpected token "else" in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 101
+[14-Oct-2022 16:26:19 Asia/Manila] PHP Parse error:  syntax error, unexpected token "else" in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 101
+[14-Oct-2022 16:26:24 Asia/Manila] PHP Parse error:  syntax error, unexpected token "else" in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 101
+[14-Oct-2022 16:28:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 188
+[19-Oct-2022 14:11:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 188
+[19-Oct-2022 14:11:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 188
+[19-Oct-2022 14:11:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[20-Oct-2022 09:03:41 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 13:50:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 188
+[21-Oct-2022 13:50:05 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageHistory() in /home/hxuoeflb/public_html/faculty/history.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/history.php on line 171
+[21-Oct-2022 13:50:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMission() in /home/hxuoeflb/public_html/faculty/mission.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/mission.php on line 171
+[21-Oct-2022 13:50:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 188
+[21-Oct-2022 13:50:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 13:50:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 188
+[21-Oct-2022 13:50:54 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 14:20:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:23:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 188
+[21-Oct-2022 14:23:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:34:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:34:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:35:17 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:35:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:35:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:36:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:37:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:38:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:38:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:38:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 14:39:40 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 14:43:27 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 14:54:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 188
+[21-Oct-2022 14:54:47 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 15:27:08 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 15:29:40 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 15:29:46 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 15:30:23 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 15:30:42 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 15:31:19 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 15:31:58 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 263
+[21-Oct-2022 16:03:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 16:10:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 16:11:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[21-Oct-2022 16:18:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 188
+[05-Nov-2022 14:58:45 UTC] PHP Warning:  Undefined array key 1 in /home/hxuoeflb/public_html/faculty/print-reports.php on line 128
+[05-Nov-2022 14:58:45 UTC] PHP Warning:  Undefined array key 2 in /home/hxuoeflb/public_html/faculty/print-reports.php on line 128
+[05-Nov-2022 14:58:45 UTC] PHP Fatal error:  Uncaught TypeError: mktime(): Argument #4 ($month) must be of type ?int, string given in /home/hxuoeflb/public_html/faculty/print-reports.php:128
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/print-reports.php(128): mktime()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/print-reports.php on line 128
+[05-Nov-2022 14:59:24 UTC] PHP Warning:  Undefined array key 1 in /home/hxuoeflb/public_html/faculty/print-reports.php on line 128
+[05-Nov-2022 14:59:24 UTC] PHP Warning:  Undefined array key 2 in /home/hxuoeflb/public_html/faculty/print-reports.php on line 128
+[05-Nov-2022 14:59:24 UTC] PHP Fatal error:  Uncaught TypeError: mktime(): Argument #4 ($month) must be of type ?int, string given in /home/hxuoeflb/public_html/faculty/print-reports.php:128
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/print-reports.php(128): mktime()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/print-reports.php on line 128
+[05-Nov-2022 23:36:43 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 259
+[05-Nov-2022 23:42:49 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 528
+[05-Nov-2022 23:45:24 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 528
+[06-Nov-2022 01:09:06 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:09:06 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:34:25 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:34:25 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:37:01 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:37:01 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:39:40 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:39:40 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:40:53 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:40:53 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:42:34 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:42:34 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:42:56 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:42:56 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:43:21 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:43:21 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:44:10 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:44:10 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:44:56 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:44:56 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:45:20 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:45:20 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:45:39 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:45:39 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:45:53 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:45:53 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:46:11 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:46:11 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:46:40 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:46:40 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:46:58 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:46:58 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:47:30 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:47:30 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:47:52 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:47:52 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:48:27 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:48:27 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:51:28 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:51:28 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:52:19 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:52:19 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:52:48 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:52:48 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:57:59 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:57:59 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:58:48 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 01:58:48 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:04:16 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:04:16 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:13:07 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:13:07 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:14:34 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:14:34 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:15:19 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:15:19 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:15:48 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 02:15:48 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 125
+[06-Nov-2022 12:04:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 188
+[06-Nov-2022 12:04:59 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/hxuoeflb/public_html/faculty/message.php:165
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/message.php(165): mysqli_close()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/message.php on line 165
+[06-Nov-2022 12:05:09 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/hxuoeflb/public_html/faculty/message.php:165
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/message.php(165): mysqli_close()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/message.php on line 165
+[06-Nov-2022 12:05:11 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/hxuoeflb/public_html/faculty/message.php:165
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/message.php(165): mysqli_close()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/message.php on line 165
+[06-Nov-2022 12:05:14 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/hxuoeflb/public_html/faculty/message.php:165
+Stack trace:
+#0 /home/hxuoeflb/public_html/faculty/message.php(165): mysqli_close()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/message.php on line 165
+[06-Nov-2022 12:05:44 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 259
+[06-Nov-2022 12:06:38 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 273
+[06-Nov-2022 12:07:01 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 273
+[06-Nov-2022 12:07:31 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 273
+[07-Nov-2022 13:52:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[07-Nov-2022 13:52:30 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[07-Nov-2022 13:52:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[07-Nov-2022 13:52:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:220
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 220
+[07-Nov-2022 14:09:20 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 259
+[07-Nov-2022 14:17:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageHistory() in /home/hxuoeflb/public_html/faculty/history.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/history.php on line 171
+[07-Nov-2022 14:17:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 188
+[07-Nov-2022 14:20:31 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 259
+[07-Nov-2022 14:20:43 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 259
+[07-Nov-2022 14:20:45 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 259
+[08-Nov-2022 11:35:57 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 259
+[08-Nov-2022 21:24:43 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[08-Nov-2022 21:24:51 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[08-Nov-2022 21:27:46 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[08-Nov-2022 21:28:34 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[08-Nov-2022 21:29:55 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[09-Nov-2022 02:14:15 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:14:15 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 10:17:18 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[09-Nov-2022 02:17:47 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:17:47 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:21:42 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:21:42 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:23:06 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:23:06 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:23:50 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:23:50 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:24:15 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:24:15 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:24:18 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:24:18 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:24:20 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:24:20 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:24:30 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 02:24:30 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 10:24:53 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[09-Nov-2022 10:25:50 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[09-Nov-2022 10:25:57 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 722
+[09-Nov-2022 10:26:55 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[09-Nov-2022 10:26:57 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 256
+[09-Nov-2022 10:27:24 Asia/Manila] PHP Warning:  Undefined array key "" in /home/hxuoeflb/public_html/faculty/message.php on line 127
+[09-Nov-2022 10:27:24 Asia/Manila] PHP Warning:  Undefined array key "" in /home/hxuoeflb/public_html/faculty/message.php on line 127
+[09-Nov-2022 10:27:24 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 722
+[09-Nov-2022 10:27:24 Asia/Manila] PHP Warning:  Undefined array key "" in /home/hxuoeflb/public_html/faculty/message.php on line 127
+[09-Nov-2022 10:27:24 Asia/Manila] PHP Warning:  Undefined array key "" in /home/hxuoeflb/public_html/faculty/message.php on line 127
+[09-Nov-2022 10:27:28 Asia/Manila] PHP Warning:  Undefined array key "" in /home/hxuoeflb/public_html/faculty/message.php on line 127
+[09-Nov-2022 10:27:28 Asia/Manila] PHP Warning:  Undefined array key "" in /home/hxuoeflb/public_html/faculty/message.php on line 127
+[09-Nov-2022 10:27:30 Asia/Manila] PHP Warning:  Undefined array key "" in /home/hxuoeflb/public_html/faculty/message.php on line 127
+[09-Nov-2022 10:27:30 Asia/Manila] PHP Warning:  Undefined array key "" in /home/hxuoeflb/public_html/faculty/message.php on line 127
+[09-Nov-2022 10:28:48 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[09-Nov-2022 10:28:50 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[09-Nov-2022 10:42:09 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[09-Nov-2022 10:43:43 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 722
+[09-Nov-2022 11:01:38 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[09-Nov-2022 11:02:08 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 722
+[09-Nov-2022 11:40:39 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[09-Nov-2022 11:40:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[09-Nov-2022 03:41:16 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 03:41:16 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 11:48:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[09-Nov-2022 11:48:17 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageHistory() in /home/hxuoeflb/public_html/faculty/history.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/history.php on line 168
+[09-Nov-2022 11:48:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[09-Nov-2022 11:48:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[09-Nov-2022 11:48:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[09-Nov-2022 11:48:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[09-Nov-2022 03:48:54 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 03:48:54 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 11:49:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[09-Nov-2022 15:53:58 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[09-Nov-2022 15:57:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[09-Nov-2022 15:57:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[09-Nov-2022 15:57:37 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[09-Nov-2022 08:26:13 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 08:26:13 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 16:33:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[09-Nov-2022 08:36:25 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 08:36:25 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 08:52:22 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 08:52:22 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 16:52:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[09-Nov-2022 16:53:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[09-Nov-2022 09:02:39 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:02:39 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:11:38 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:11:38 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:12:25 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:12:25 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:13:23 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:13:23 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:13:33 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 09:13:33 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 17:14:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[09-Nov-2022 17:14:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[09-Nov-2022 17:15:36 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[09-Nov-2022 17:16:45 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 722
+[09-Nov-2022 17:27:39 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[09-Nov-2022 11:29:27 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 11:29:27 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 11:52:10 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[09-Nov-2022 11:52:10 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 09:27:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[10-Nov-2022 01:31:37 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 01:31:37 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 01:32:12 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 01:32:12 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 01:34:50 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 01:34:50 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 01:34:55 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 01:34:55 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 03:32:18 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 03:32:18 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 03:32:20 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 03:32:20 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 12:25:11 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[10-Nov-2022 12:25:14 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[10-Nov-2022 12:25:43 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[10-Nov-2022 12:25:47 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[10-Nov-2022 12:25:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[10-Nov-2022 04:27:27 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 04:27:27 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 04:28:49 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 04:28:49 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 12:31:21 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[10-Nov-2022 12:31:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[10-Nov-2022 12:31:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[10-Nov-2022 04:36:24 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 04:36:24 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 12:37:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[10-Nov-2022 12:38:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[10-Nov-2022 12:44:21 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[10-Nov-2022 04:46:50 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 04:46:50 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 12:47:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[11-Nov-2022 06:06:59 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[11-Nov-2022 06:53:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 06:53:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[11-Nov-2022 06:53:30 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[11-Nov-2022 06:53:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 06:53:51 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[11-Nov-2022 06:58:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 06:58:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 06:58:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 06:58:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 06:59:42 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 06:59:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 07:02:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 07:02:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 07:03:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[10-Nov-2022 23:06:16 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 23:06:16 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 23:06:24 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 23:06:24 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 23:10:02 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 23:10:02 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 23:10:05 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 23:10:05 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 07:14:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 07:14:22 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 07:22:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 07:22:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[10-Nov-2022 23:22:25 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[10-Nov-2022 23:22:25 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 07:25:01 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[11-Nov-2022 07:25:30 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 07:25:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[11-Nov-2022 07:25:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[11-Nov-2022 07:31:42 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageHistory() in /home/hxuoeflb/public_html/faculty/history.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/history.php on line 168
+[11-Nov-2022 07:31:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[11-Nov-2022 07:31:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 07:31:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 01:47:13 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 01:47:13 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 09:47:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 09:50:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 09:51:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 01:52:07 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 01:52:07 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 09:52:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 09:56:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 10:02:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 10:02:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 10:03:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 10:03:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 10:03:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 10:03:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 10:03:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 10:03:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:25:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 08:25:51 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 08:25:51 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 16:25:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:26:21 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 08:26:23 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 08:26:23 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[11-Nov-2022 16:26:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:26:30 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:26:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:26:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:26:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:26:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:26:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[11-Nov-2022 16:26:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[11-Nov-2022 16:26:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[13-Nov-2022 12:24:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[13-Nov-2022 12:51:01 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[13-Nov-2022 12:51:19 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[13-Nov-2022 12:51:19 Asia/Manila] PHP Warning:  Undefined variable $rank in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 529
+[13-Nov-2022 12:52:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[13-Nov-2022 12:53:05 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[13-Nov-2022 12:53:05 Asia/Manila] PHP Warning:  Undefined variable $rank in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 529
+[13-Nov-2022 12:53:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[13-Nov-2022 12:53:34 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[13-Nov-2022 12:53:34 Asia/Manila] PHP Warning:  Undefined variable $rank in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 529
+[13-Nov-2022 12:54:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[13-Nov-2022 12:55:01 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[13-Nov-2022 20:42:17 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[13-Nov-2022 12:42:34 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[13-Nov-2022 12:42:34 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[13-Nov-2022 20:51:22 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[13-Nov-2022 20:51:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[13-Nov-2022 12:52:25 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[13-Nov-2022 12:52:25 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[13-Nov-2022 20:55:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[13-Nov-2022 20:56:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:51:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:51:42 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[14-Nov-2022 08:51:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:52:04 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[14-Nov-2022 08:52:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:52:20 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[14-Nov-2022 08:52:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:52:35 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[14-Nov-2022 08:52:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:52:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:53:07 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[14-Nov-2022 08:53:10 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:53:21 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[14-Nov-2022 08:53:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:53:33 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[14-Nov-2022 08:53:37 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[14-Nov-2022 08:53:44 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 526
+[15-Nov-2022 18:34:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:35:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:35:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:35:35 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:40:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:42:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:42:16 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 10:43:38 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 10:43:38 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 18:44:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:44:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:44:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:46:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:46:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:49:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:49:05 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:49:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:49:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:50:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:50:47 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[15-Nov-2022 18:50:57 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 742
+[15-Nov-2022 18:52:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:52:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:52:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 18:53:12 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[15-Nov-2022 18:53:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[15-Nov-2022 18:53:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 10:54:02 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 10:54:02 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 18:55:41 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 607
+[15-Nov-2022 18:56:04 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 607
+[15-Nov-2022 18:56:19 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 607
+[15-Nov-2022 18:56:39 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 607
+[15-Nov-2022 18:56:58 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 607
+[15-Nov-2022 18:57:15 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 607
+[15-Nov-2022 18:57:34 Asia/Manila] PHP Warning:  Undefined variable $final in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 607
+[15-Nov-2022 10:57:52 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 10:57:52 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 10:59:45 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 10:59:45 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 19:50:04 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[15-Nov-2022 11:50:22 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 11:50:22 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 19:50:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 19:51:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[15-Nov-2022 11:58:15 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[15-Nov-2022 11:58:15 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[16-Nov-2022 02:08:21 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[16-Nov-2022 02:08:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[16-Nov-2022 02:08:42 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[16-Nov-2022 02:18:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[16-Nov-2022 00:56:39 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[16-Nov-2022 00:56:39 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[17-Nov-2022 21:54:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 13:54:45 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[17-Nov-2022 13:54:45 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[17-Nov-2022 21:54:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 21:55:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 21:55:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/faculty/events.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/events.php on line 185
+[17-Nov-2022 21:55:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 21:55:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 21:55:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 22:06:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 22:06:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 22:06:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[17-Nov-2022 22:07:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185
+[18-Nov-2022 10:51:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[18-Nov-2022 10:59:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[18-Nov-2022 03:03:28 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 03:03:28 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 11:03:57 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[18-Nov-2022 23:32:27 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 23:32:27 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 23:32:34 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 23:32:34 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 23:33:21 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 23:33:21 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 23:34:02 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 23:34:02 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 07:34:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[18-Nov-2022 23:34:30 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[18-Nov-2022 23:34:30 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 03:23:00 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 03:23:00 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 04:38:19 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 04:38:19 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 04:41:04 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 04:41:04 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 05:31:16 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 05:31:16 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 06:54:42 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 06:54:42 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 06:56:52 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 06:56:52 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 06:57:59 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 06:57:59 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 06:59:09 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 06:59:09 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 07:02:22 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 07:02:22 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 15:23:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[19-Nov-2022 07:30:07 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 07:30:07 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[19-Nov-2022 16:07:58 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[19-Nov-2022 16:09:20 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[19-Nov-2022 16:09:46 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 742
+[19-Nov-2022 16:10:18 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 742
+[21-Nov-2022 14:47:07 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[21-Nov-2022 14:47:17 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/faculty/pmnhs_function.php on line 742
+[21-Nov-2022 07:13:38 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[21-Nov-2022 07:13:38 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[21-Nov-2022 15:39:35 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[21-Nov-2022 15:39:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/faculty/schedule.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/schedule.php on line 217
+[21-Nov-2022 15:40:39 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/faculty/message.php on line 258
+[21-Nov-2022 07:40:46 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[21-Nov-2022 07:40:46 UTC] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/faculty/report-grades.php on line 122
+[21-Nov-2022 15:40:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/faculty/announcement.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/faculty/announcement.php on line 185

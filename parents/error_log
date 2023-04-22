@@ -1,0 +1,429 @@
+[14-Oct-2022 16:44:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[14-Oct-2022 16:44:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[18-Oct-2022 13:47:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 187
+[18-Oct-2022 13:47:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageHistory() in /home/hxuoeflb/public_html/parents/history.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/history.php on line 170
+[18-Oct-2022 13:47:18 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[18-Oct-2022 13:47:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[18-Oct-2022 14:22:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[18-Oct-2022 14:22:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 187
+[18-Oct-2022 14:22:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[18-Oct-2022 14:22:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[18-Oct-2022 14:23:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[18-Oct-2022 14:23:30 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[18-Oct-2022 14:25:35 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[18-Oct-2022 14:26:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[18-Oct-2022 14:27:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[19-Oct-2022 19:59:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 187
+[19-Oct-2022 19:59:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageHistory() in /home/hxuoeflb/public_html/parents/history.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/history.php on line 170
+[19-Oct-2022 19:59:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[19-Oct-2022 19:59:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[19-Oct-2022 20:00:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[19-Oct-2022 20:01:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[19-Oct-2022 20:02:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[21-Oct-2022 15:41:42 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[02-Nov-2022 15:51:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 187
+[02-Nov-2022 15:51:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[02-Nov-2022 15:54:05 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[02-Nov-2022 15:54:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[02-Nov-2022 15:56:50 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 253
+[02-Nov-2022 15:57:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 182
+[02-Nov-2022 15:57:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 182
+[02-Nov-2022 15:58:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 182
+[02-Nov-2022 16:18:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 187
+[07-Nov-2022 13:35:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[07-Nov-2022 13:36:22 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[07-Nov-2022 13:36:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[07-Nov-2022 13:36:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 182
+[07-Nov-2022 13:37:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 182
+[07-Nov-2022 13:37:40 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[07-Nov-2022 13:40:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 187
+[07-Nov-2022 13:40:42 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[07-Nov-2022 13:45:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[07-Nov-2022 13:48:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[07-Nov-2022 13:51:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[07-Nov-2022 14:06:49 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 270
+[07-Nov-2022 14:07:16 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 270
+[07-Nov-2022 14:08:10 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 270
+[07-Nov-2022 14:27:11 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 270
+[07-Nov-2022 14:27:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/notification.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/notification.php on line 209
+[07-Nov-2022 17:02:40 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 187
+[07-Nov-2022 17:02:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[07-Nov-2022 17:03:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 182
+[07-Nov-2022 17:03:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[07-Nov-2022 17:04:03 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 168
+[08-Nov-2022 22:20:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[09-Nov-2022 10:35:59 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 267
+[09-Nov-2022 10:37:57 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 267
+[09-Nov-2022 10:39:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[09-Nov-2022 10:39:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 184
+[09-Nov-2022 10:39:48 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 267
+[09-Nov-2022 10:39:50 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 267
+[09-Nov-2022 10:40:46 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 10:46:29 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 10:46:40 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 10:46:42 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 10:48:16 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/parents/pmnhs_function.php on line 254
+[09-Nov-2022 10:59:41 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/parents/pmnhs_function.php on line 254
+[09-Nov-2022 11:01:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[09-Nov-2022 11:01:29 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/hxuoeflb/public_html/parents/message.php on line 184
+[09-Nov-2022 11:02:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 184
+[09-Nov-2022 11:02:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[09-Nov-2022 13:40:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[09-Nov-2022 13:41:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[09-Nov-2022 13:42:41 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 17:24:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[09-Nov-2022 17:24:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[09-Nov-2022 17:24:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[09-Nov-2022 17:25:01 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 17:25:06 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/hxuoeflb/public_html/parents/message.php on line 184
+[09-Nov-2022 17:25:35 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[09-Nov-2022 17:25:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[09-Nov-2022 19:12:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 184
+[09-Nov-2022 19:12:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageHistory() in /home/hxuoeflb/public_html/parents/history.php:167
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/history.php on line 167
+[09-Nov-2022 19:12:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[09-Nov-2022 19:13:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[09-Nov-2022 19:13:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/notification.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/notification.php on line 206
+[09-Nov-2022 19:13:56 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 19:14:20 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 19:14:22 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/notification.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/notification.php on line 206
+[09-Nov-2022 19:15:45 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[09-Nov-2022 19:21:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[09-Nov-2022 19:50:40 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[10-Nov-2022 23:09:43 UTC] PHP Warning:  Undefined variable $gpa_num in /home/hxuoeflb/public_html/parents/reports.php on line 172
+[10-Nov-2022 23:09:43 UTC] PHP Warning:  Undefined variable $gpa_num in /home/hxuoeflb/public_html/parents/reports.php on line 183
+[11-Nov-2022 07:09:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[11-Nov-2022 07:09:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[10-Nov-2022 23:09:47 UTC] PHP Warning:  Undefined variable $gpa_num in /home/hxuoeflb/public_html/parents/reports.php on line 172
+[10-Nov-2022 23:09:47 UTC] PHP Warning:  Undefined variable $gpa_num in /home/hxuoeflb/public_html/parents/reports.php on line 183
+[11-Nov-2022 07:09:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[11-Nov-2022 07:09:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[10-Nov-2022 23:09:51 UTC] PHP Warning:  Undefined variable $gpa_num in /home/hxuoeflb/public_html/parents/reports.php on line 172
+[10-Nov-2022 23:09:51 UTC] PHP Warning:  Undefined variable $gpa_num in /home/hxuoeflb/public_html/parents/reports.php on line 183
+[11-Nov-2022 07:09:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[10-Nov-2022 23:10:00 UTC] PHP Warning:  Undefined variable $gpa_num in /home/hxuoeflb/public_html/parents/reports.php on line 172
+[10-Nov-2022 23:10:00 UTC] PHP Warning:  Undefined variable $gpa_num in /home/hxuoeflb/public_html/parents/reports.php on line 183
+[16-Nov-2022 01:29:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[16-Nov-2022 01:29:16 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[16-Nov-2022 01:29:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 184
+[16-Nov-2022 01:29:40 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[16-Nov-2022 01:36:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 184
+[16-Nov-2022 01:46:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[21-Nov-2022 14:38:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[21-Nov-2022 14:38:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:38:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:38:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:38:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:39:10 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:39:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:39:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:39:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:39:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 184
+[21-Nov-2022 14:39:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageHistory() in /home/hxuoeflb/public_html/parents/history.php:167
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/history.php on line 167
+[21-Nov-2022 14:39:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMission() in /home/hxuoeflb/public_html/parents/mission.php:167
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/mission.php on line 167
+[21-Nov-2022 14:39:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageVision() in /home/hxuoeflb/public_html/parents/vision.php:167
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/vision.php on line 167
+[21-Nov-2022 14:39:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[21-Nov-2022 14:39:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/parents/announcement.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/announcement.php on line 184
+[21-Nov-2022 14:39:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/parents/events.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/events.php on line 184
+[21-Nov-2022 14:40:20 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[21-Nov-2022 14:40:48 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[21-Nov-2022 14:47:26 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[21-Nov-2022 14:47:28 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[21-Nov-2022 14:47:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageMessage() in /home/hxuoeflb/public_html/parents/profile.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/profile.php on line 179
+[21-Nov-2022 14:47:33 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/parents/message.php on line 269
+[21-Nov-2022 14:47:52 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/parents/pmnhs_function.php on line 254
+[21-Nov-2022 15:41:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165
+[21-Nov-2022 15:42:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageSchedule() in /home/hxuoeflb/public_html/parents/schedule.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/parents/schedule.php on line 165

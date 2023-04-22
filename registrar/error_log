@@ -1,0 +1,680 @@
+[14-Oct-2022 15:08:45 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php on line 335
+[14-Oct-2022 15:10:07 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php on line 335
+[14-Oct-2022 15:11:21 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php:335
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/print-grades.php(335): mysqli_error()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/print-grades.php on line 335
+[14-Oct-2022 15:11:34 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[14-Oct-2022 15:11:34 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[14-Oct-2022 15:11:34 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[14-Oct-2022 15:11:34 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[14-Oct-2022 15:13:46 Asia/Manila] PHP Notice:  Undefined index: schname in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[14-Oct-2022 15:13:46 Asia/Manila] PHP Notice:  Undefined index: schid in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[14-Oct-2022 15:13:46 Asia/Manila] PHP Notice:  Undefined index: glevel in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[14-Oct-2022 15:13:46 Asia/Manila] PHP Notice:  Undefined index: teacher in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[14-Oct-2022 15:14:02 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php on line 335
+[14-Oct-2022 15:15:06 Asia/Manila] PHP Notice:  Undefined index: schname in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[14-Oct-2022 15:15:06 Asia/Manila] PHP Notice:  Undefined index: schid in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[14-Oct-2022 15:15:06 Asia/Manila] PHP Notice:  Undefined index: glevel in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[14-Oct-2022 15:15:06 Asia/Manila] PHP Notice:  Undefined index: teacher in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[14-Oct-2022 15:15:23 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php on line 335
+[14-Oct-2022 15:15:52 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php on line 335
+[14-Oct-2022 15:16:06 Asia/Manila] PHP Notice:  Undefined index: schname in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[14-Oct-2022 15:16:06 Asia/Manila] PHP Notice:  Undefined index: schid in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[14-Oct-2022 15:16:06 Asia/Manila] PHP Notice:  Undefined index: glevel in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[14-Oct-2022 15:16:06 Asia/Manila] PHP Notice:  Undefined index: teacher in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[14-Oct-2022 15:16:35 Asia/Manila] PHP Notice:  Undefined index: schname in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[14-Oct-2022 15:16:35 Asia/Manila] PHP Notice:  Undefined index: schid in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[14-Oct-2022 15:16:35 Asia/Manila] PHP Notice:  Undefined index: glevel in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[14-Oct-2022 15:16:35 Asia/Manila] PHP Notice:  Undefined index: teacher in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[14-Oct-2022 15:17:30 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[14-Oct-2022 15:17:30 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[14-Oct-2022 15:17:30 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[14-Oct-2022 15:17:30 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[14-Oct-2022 15:18:26 Asia/Manila] PHP Fatal error:  Uncaught TypeError: round(): Argument #1 ($num) must be of type int|float, string given in /home/hxuoeflb/public_html/registrar/student-details.php:355
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/student-details.php(355): round()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/student-details.php on line 355
+[14-Oct-2022 15:19:04 Asia/Manila] PHP Fatal error:  Uncaught TypeError: round(): Argument #1 ($num) must be of type int|float, string given in /home/hxuoeflb/public_html/registrar/student-details.php:353
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/student-details.php(353): round()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/student-details.php on line 353
+[14-Oct-2022 15:19:28 Asia/Manila] PHP Fatal error:  Uncaught TypeError: round(): Argument #1 ($num) must be of type int|float, string given in /home/hxuoeflb/public_html/registrar/student-details.php:353
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/student-details.php(353): round()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/student-details.php on line 353
+[14-Oct-2022 16:16:43 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[14-Oct-2022 16:16:43 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[14-Oct-2022 16:16:43 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[14-Oct-2022 16:16:43 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[14-Oct-2022 16:20:47 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 291
+[18-Oct-2022 14:06:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/registrar/events.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/events.php on line 211
+[18-Oct-2022 14:07:54 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[18-Oct-2022 14:07:54 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[18-Oct-2022 14:07:54 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[18-Oct-2022 14:07:54 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[18-Oct-2022 14:08:25 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[18-Oct-2022 14:08:25 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 349
+[18-Oct-2022 14:08:25 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 363
+[18-Oct-2022 14:08:25 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 378
+[19-Oct-2022 20:17:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/registrar/announcement.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/announcement.php on line 211
+[19-Oct-2022 20:17:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/registrar/announcement.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/announcement.php on line 211
+[19-Oct-2022 20:18:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/registrar/announcement.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/announcement.php on line 211
+[21-Oct-2022 08:22:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:25:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:25:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:25:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:25:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:25:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:26:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:26:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:26:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:26:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[21-Oct-2022 08:27:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[05-Nov-2022 15:46:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(21): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[05-Nov-2022 15:46:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/nav.php:32
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/nav.php(32): mysqli_num_rows()
+#1 /home/hxuoeflb/public_html/registrar/dashboard.php(18): include('/home/hxuoeflb/...')
+#2 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/nav.php on line 32
+[05-Nov-2022 23:50:18 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 287
+[05-Nov-2022 23:50:44 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 287
+[05-Nov-2022 23:52:54 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 293
+[05-Nov-2022 23:54:55 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/registrar/pmnhs_function.php on line 2125
+[06-Nov-2022 12:10:05 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/hxuoeflb/public_html/registrar/message.php:194
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/message.php(194): mysqli_close()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/message.php on line 194
+[06-Nov-2022 12:10:41 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/hxuoeflb/public_html/registrar/message.php:194
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/message.php(194): mysqli_close()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/message.php on line 194
+[06-Nov-2022 12:10:56 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 293
+[06-Nov-2022 12:11:13 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 293
+[06-Nov-2022 04:18:29 UTC] PHP Warning:  Undefined array key "level" in /home/hxuoeflb/public_html/registrar/subject.php on line 133
+[06-Nov-2022 04:18:29 UTC] PHP Warning:  Undefined array key "level" in /home/hxuoeflb/public_html/registrar/subject.php on line 159
+[06-Nov-2022 12:25:15 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 293
+[06-Nov-2022 12:59:28 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 292
+[09-Nov-2022 08:26:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[09-Nov-2022 17:02:09 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[09-Nov-2022 17:02:09 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[09-Nov-2022 17:02:09 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[09-Nov-2022 17:02:09 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[09-Nov-2022 17:03:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/registrar/announcement.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/announcement.php on line 207
+[09-Nov-2022 17:19:10 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[09-Nov-2022 17:19:10 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[09-Nov-2022 17:19:10 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[09-Nov-2022 17:19:10 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[09-Nov-2022 17:27:43 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 289
+[11-Nov-2022 10:54:49 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 10:54:49 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 10:54:49 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 10:54:49 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 10:54:55 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 10:54:55 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 10:54:55 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 10:54:55 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 10:58:32 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 10:58:32 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 10:58:32 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 10:58:32 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:06:30 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:06:30 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:06:30 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:06:30 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:09:07 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:09:07 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:09:07 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:09:07 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:12:26 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:12:26 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:12:26 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:12:26 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:14:02 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:14:02 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:14:02 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:14:02 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:14:07 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:14:07 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:14:07 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:14:07 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:14:26 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:14:26 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:14:26 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:14:26 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:15:24 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:15:24 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:15:24 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:15:24 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:15:45 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:15:45 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:15:45 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:15:45 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:19:41 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:19:41 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:19:41 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:19:41 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:19:58 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 342
+[11-Nov-2022 11:19:58 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 345
+[11-Nov-2022 11:19:58 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 359
+[11-Nov-2022 11:19:58 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 374
+[11-Nov-2022 11:19:58 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 381
+[11-Nov-2022 11:20:18 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 337
+[11-Nov-2022 11:20:18 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 343
+[11-Nov-2022 11:20:18 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[11-Nov-2022 11:20:18 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 360
+[11-Nov-2022 11:20:18 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 375
+[11-Nov-2022 11:20:18 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 382
+[11-Nov-2022 11:20:55 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php:331
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/print-grades.php(331): mysqli_error()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/print-grades.php on line 331
+[11-Nov-2022 11:21:18 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php:331
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/print-grades.php(331): mysqli_error()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/print-grades.php on line 331
+[11-Nov-2022 11:21:56 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/hxuoeflb/public_html/registrar/print-grades.php:331
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/print-grades.php(331): mysqli_error()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/print-grades.php on line 331
+[11-Nov-2022 11:22:08 Asia/Manila] PHP Warning:  Undefined array key "schname" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 343
+[11-Nov-2022 11:22:08 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 346
+[11-Nov-2022 11:22:08 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 360
+[11-Nov-2022 11:22:08 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 375
+[11-Nov-2022 11:22:08 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 382
+[11-Nov-2022 11:24:11 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 352
+[11-Nov-2022 11:24:11 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 366
+[11-Nov-2022 11:24:11 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 381
+[11-Nov-2022 11:24:11 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[11-Nov-2022 11:24:57 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 352
+[11-Nov-2022 11:24:57 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 366
+[11-Nov-2022 11:24:57 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 381
+[11-Nov-2022 11:24:57 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[11-Nov-2022 11:25:31 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 352
+[11-Nov-2022 11:25:31 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 366
+[11-Nov-2022 11:25:31 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 381
+[11-Nov-2022 11:25:31 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[11-Nov-2022 11:26:26 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 352
+[11-Nov-2022 11:26:26 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 366
+[11-Nov-2022 11:26:26 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 381
+[11-Nov-2022 11:26:26 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[11-Nov-2022 11:26:30 Asia/Manila] PHP Warning:  Undefined array key "schid" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 352
+[11-Nov-2022 11:26:30 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 366
+[11-Nov-2022 11:26:30 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 381
+[11-Nov-2022 11:26:30 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[11-Nov-2022 11:27:05 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 373
+[11-Nov-2022 11:27:05 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[11-Nov-2022 11:27:05 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 395
+[11-Nov-2022 11:30:13 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 373
+[11-Nov-2022 11:30:13 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[11-Nov-2022 11:30:13 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 395
+[11-Nov-2022 11:35:35 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 373
+[11-Nov-2022 11:35:35 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[11-Nov-2022 11:35:35 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 395
+[13-Nov-2022 23:07:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[14-Nov-2022 07:08:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/registrar/announcement.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/announcement.php on line 207
+[14-Nov-2022 07:21:07 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 373
+[14-Nov-2022 07:21:07 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[14-Nov-2022 07:21:07 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 395
+[14-Nov-2022 07:22:05 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 289
+[13-Nov-2022 23:25:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[13-Nov-2022 23:25:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[13-Nov-2022 23:27:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[13-Nov-2022 23:27:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[15-Nov-2022 19:53:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/registrar/announcement.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/announcement.php on line 207
+[15-Nov-2022 19:53:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageFaculty() in /home/hxuoeflb/public_html/registrar/faculty.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/faculty.php on line 268
+[15-Nov-2022 19:53:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/registrar/announcement.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/announcement.php on line 207
+[15-Nov-2022 19:55:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageFaculty() in /home/hxuoeflb/public_html/registrar/faculty.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/faculty.php on line 268
+[16-Nov-2022 09:16:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageEvent() in /home/hxuoeflb/public_html/registrar/events.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/events.php on line 207
+[16-Nov-2022 01:23:56 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[16-Nov-2022 09:23:56 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[16-Nov-2022 09:23:56 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[16-Nov-2022 09:23:56 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[16-Nov-2022 09:23:56 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[16-Nov-2022 09:23:56 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[16-Nov-2022 01:24:11 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[16-Nov-2022 09:24:11 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[16-Nov-2022 09:24:11 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[16-Nov-2022 09:24:11 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[16-Nov-2022 09:24:11 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[16-Nov-2022 09:24:11 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[16-Nov-2022 01:24:23 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[16-Nov-2022 09:24:23 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[16-Nov-2022 09:24:23 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[16-Nov-2022 09:24:23 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[16-Nov-2022 09:24:23 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[16-Nov-2022 09:24:23 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[16-Nov-2022 01:24:38 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[16-Nov-2022 09:24:38 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[16-Nov-2022 09:24:38 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[16-Nov-2022 09:24:38 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[16-Nov-2022 09:24:38 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[16-Nov-2022 09:24:38 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[16-Nov-2022 09:24:40 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 289
+[16-Nov-2022 01:25:49 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[16-Nov-2022 09:25:49 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[16-Nov-2022 09:25:49 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[16-Nov-2022 09:25:49 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[16-Nov-2022 09:25:49 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[16-Nov-2022 09:25:49 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[16-Nov-2022 01:26:58 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[16-Nov-2022 09:26:58 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[16-Nov-2022 09:26:58 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[16-Nov-2022 09:26:58 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[16-Nov-2022 09:26:58 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[16-Nov-2022 09:26:58 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[16-Nov-2022 09:33:35 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 373
+[16-Nov-2022 09:33:35 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[16-Nov-2022 09:33:35 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 395
+[16-Nov-2022 09:34:34 Asia/Manila] PHP Warning:  Undefined array key "glevel" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 373
+[16-Nov-2022 09:34:34 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 388
+[16-Nov-2022 09:34:34 Asia/Manila] PHP Warning:  Undefined array key "teacher" in /home/hxuoeflb/public_html/registrar/print-grades.php on line 395
+[16-Nov-2022 09:39:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageFaculty() in /home/hxuoeflb/public_html/registrar/faculty.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/faculty.php on line 268
+[16-Nov-2022 09:45:40 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageAnnouncement() in /home/hxuoeflb/public_html/registrar/announcement.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/announcement.php on line 207
+[16-Nov-2022 21:47:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function ManageFaculty() in /home/hxuoeflb/public_html/registrar/faculty.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/faculty.php on line 268
+[18-Nov-2022 00:41:22 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[18-Nov-2022 08:41:22 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[18-Nov-2022 08:41:22 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[18-Nov-2022 08:41:22 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[18-Nov-2022 08:41:22 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[18-Nov-2022 08:41:22 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[18-Nov-2022 00:41:26 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[18-Nov-2022 08:41:26 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[18-Nov-2022 08:41:26 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[18-Nov-2022 08:41:26 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[18-Nov-2022 08:41:26 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[18-Nov-2022 08:41:26 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[19-Nov-2022 07:38:59 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[19-Nov-2022 15:38:59 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[19-Nov-2022 15:38:59 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[19-Nov-2022 15:38:59 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[19-Nov-2022 15:38:59 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[19-Nov-2022 15:38:59 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[19-Nov-2022 07:39:07 UTC] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 76
+[19-Nov-2022 15:39:07 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 288
+[19-Nov-2022 15:39:07 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 338
+[19-Nov-2022 15:39:07 Asia/Manila] PHP Warning:  Undefined array key "lrnno" in /home/hxuoeflb/public_html/registrar/student-details.php on line 375
+[19-Nov-2022 15:39:07 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 431
+[19-Nov-2022 15:39:07 Asia/Manila] PHP Warning:  Undefined array key "student_id" in /home/hxuoeflb/public_html/registrar/student-details.php on line 477
+[21-Nov-2022 05:13:16 UTC] PHP Warning:  Undefined variable $rank in /home/hxuoeflb/public_html/registrar/dashboard.php on line 163
+[21-Nov-2022 05:13:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/dashboard.php:164
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/dashboard.php(164): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/dashboard.php on line 164
+[21-Nov-2022 05:13:23 UTC] PHP Warning:  Undefined variable $rank in /home/hxuoeflb/public_html/registrar/dashboard.php on line 163
+[21-Nov-2022 05:13:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/dashboard.php:164
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/dashboard.php(164): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/dashboard.php on line 164
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/dashboard.php on line 773
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 829
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 834
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 840
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 846
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 852
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 907
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 912
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 918
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 924
+[21-Nov-2022 13:14:02 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 930
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/dashboard.php on line 801
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 857
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 862
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 868
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 874
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 880
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 935
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 940
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 946
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 952
+[21-Nov-2022 13:14:46 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 958
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/dashboard.php on line 801
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 857
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 862
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 868
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 874
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 880
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 935
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 940
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 946
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 952
+[21-Nov-2022 13:15:17 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 958
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/dashboard.php on line 797
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 853
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 858
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 864
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 870
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 876
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 931
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 936
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 942
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 948
+[21-Nov-2022 13:16:23 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 954
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/dashboard.php on line 797
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 853
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 858
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 864
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 870
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 876
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 931
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 936
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 942
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 948
+[21-Nov-2022 13:17:27 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 954
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/dashboard.php on line 797
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 853
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 858
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 864
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 870
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 876
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 931
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 936
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 942
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 948
+[21-Nov-2022 13:18:17 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 954
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/dashboard.php on line 797
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 853
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 858
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 864
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 870
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 876
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 931
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 936
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 942
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 948
+[21-Nov-2022 13:18:59 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 954
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/dashboard.php on line 797
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 853
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 858
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 864
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 870
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 876
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 931
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 936
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 942
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 948
+[21-Nov-2022 13:20:34 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 954
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalnsat in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 274
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 330
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 335
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 341
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 347
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 353
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 408
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 413
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 419
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 425
+[21-Nov-2022 05:20:37 UTC] PHP Warning:  Undefined variable $totalnsat9999 in /home/hxuoeflb/public_html/registrar/yearly-average.php on line 431
+[21-Nov-2022 13:21:25 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 289
+[21-Nov-2022 13:24:33 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 583
+[21-Nov-2022 13:25:05 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 583
+[21-Nov-2022 05:31:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/new-message.php:123
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/new-message.php(123): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/new-message.php on line 123
+[21-Nov-2022 05:31:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/new-message.php:123
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/new-message.php(123): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/new-message.php on line 123
+[21-Nov-2022 13:32:43 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 583
+[21-Nov-2022 13:36:56 Asia/Manila] PHP Warning:  Undefined variable $row_toregistrar in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:36:56 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:36:56 Asia/Manila] PHP Warning:  Undefined variable $row_toregistrar in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:36:56 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:36:56 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 449
+[21-Nov-2022 13:36:56 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 633
+[21-Nov-2022 13:37:39 Asia/Manila] PHP Warning:  Undefined variable $row_toregistrar in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:37:39 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:37:39 Asia/Manila] PHP Warning:  Undefined variable $row_toregistrar in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:37:39 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:37:39 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 449
+[21-Nov-2022 13:37:39 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 633
+[21-Nov-2022 13:38:22 Asia/Manila] PHP Warning:  Undefined variable $row_toregistrar in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:38:22 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:38:22 Asia/Manila] PHP Warning:  Undefined variable $row_toregistrar in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:38:22 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/hxuoeflb/public_html/registrar/message.php on line 443
+[21-Nov-2022 13:38:22 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 449
+[21-Nov-2022 13:38:22 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 633
+[21-Nov-2022 13:40:25 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 449
+[21-Nov-2022 13:40:25 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 633
+[21-Nov-2022 13:42:20 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 452
+[21-Nov-2022 13:42:20 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 638
+[21-Nov-2022 13:43:02 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 452
+[21-Nov-2022 13:43:08 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 452
+[21-Nov-2022 13:43:08 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/registrar/pmnhs_function.php on line 2824
+[21-Nov-2022 13:43:09 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:44:05 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:44:22 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:45:17 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:45:22 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:46:05 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:46:28 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:47:04 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:47:38 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:47:38 Asia/Manila] PHP Warning:  Undefined variable $title in /home/hxuoeflb/public_html/registrar/pmnhs_function.php on line 2824
+[21-Nov-2022 13:47:38 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:48:17 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:48:51 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:49:11 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:49:50 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:51:35 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:51:49 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:52:02 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:53:03 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:53:27 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:53:40 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:54:08 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:54:22 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:54:24 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:54:39 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:54:46 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:54:54 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:55:04 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:56:01 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/hxuoeflb/public_html/registrar/message.php on line 470
+[21-Nov-2022 13:56:01 Asia/Manila] PHP Warning:  Undefined array key "msgid" in /home/hxuoeflb/public_html/registrar/message.php on line 641
+[21-Nov-2022 06:12:06 UTC] PHP Warning:  Undefined array key "SESS_ADMIN_ID" in /home/hxuoeflb/public_html/registrar/profile.php on line 168
+[21-Nov-2022 06:13:34 UTC] PHP Warning:  Undefined array key "emal" in /home/hxuoeflb/public_html/registrar/profile.php on line 173
+[21-Nov-2022 06:14:00 UTC] PHP Warning:  Undefined array key "emal" in /home/hxuoeflb/public_html/registrar/profile.php on line 173
+[21-Nov-2022 06:14:42 UTC] PHP Warning:  Undefined array key "emal" in /home/hxuoeflb/public_html/registrar/profile.php on line 173
+[21-Nov-2022 06:20:02 UTC] PHP Warning:  Undefined array key "emal" in /home/hxuoeflb/public_html/registrar/profile.php on line 173
+[21-Nov-2022 06:20:04 UTC] PHP Warning:  Undefined array key "emal" in /home/hxuoeflb/public_html/registrar/profile.php on line 173
+[21-Nov-2022 06:20:07 UTC] PHP Warning:  Undefined array key "emal" in /home/hxuoeflb/public_html/registrar/profile.php on line 173
+[21-Nov-2022 06:23:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[21-Nov-2022 14:27:01 Asia/Manila] PHP Warning:  filesize(): stat failed for CNHS_89061.jpg in /home/hxuoeflb/public_html/registrar/pmnhs_function.php on line 1959
+[21-Nov-2022 14:35:10 Asia/Manila] PHP Warning:  Undefined variable $fname in /home/hxuoeflb/public_html/registrar/pmnhs_function.php on line 1111
+[21-Nov-2022 14:35:10 Asia/Manila] PHP Warning:  Undefined variable $fname in /home/hxuoeflb/public_html/registrar/pmnhs_function.php on line 1140
+[21-Nov-2022 14:35:10 Asia/Manila] PHP Warning:  Undefined variable $secname in /home/hxuoeflb/public_html/registrar/pmnhs_function.php on line 1142
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 853
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 858
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 864
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 870
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 876
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 931
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 936
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 942
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 948
+[21-Nov-2022 14:40:18 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 954
+[21-Nov-2022 06:48:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[21-Nov-2022 06:49:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[21-Nov-2022 06:49:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/hxuoeflb/public_html/registrar/activity-log.php:100
+Stack trace:
+#0 /home/hxuoeflb/public_html/registrar/activity-log.php(100): mysqli_num_rows()
+#1 {main}
+  thrown in /home/hxuoeflb/public_html/registrar/activity-log.php on line 100
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalout8 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 853
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalvsat88 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 858
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalsat888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 864
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalfsat8888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 870
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalnsat88888 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 876
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 931
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 936
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 942
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 948
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 954
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalout10 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1009
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalvsat100 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1014
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalsat1000 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1020
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalfsat10000 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1026
+[21-Nov-2022 14:52:53 Asia/Manila] PHP Warning:  Undefined variable $totalnsat100000 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1032
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalout9 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 931
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalvsat99 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 936
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalsat999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 942
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalfsat9999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 948
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalnsat99999 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 954
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalout10 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1009
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalvsat100 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1014
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalsat1000 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1020
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalfsat10000 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1026
+[21-Nov-2022 15:12:25 Asia/Manila] PHP Warning:  Undefined variable $totalnsat100000 in /home/hxuoeflb/public_html/registrar/dashboard.php on line 1032
